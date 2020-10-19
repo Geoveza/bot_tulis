@@ -4,8 +4,9 @@
 
 1. git clone https://github.com/RTechnoS/bot_tulis
 2. cd bot_tulis
+3. pip install -r requirements.txt
 4. Edit file Tulisan.txt dengan text tugas kalian
-3. python3 main.py
+5. python3 main.py
 
 --> pilih salah satu kertas</br>
 --> pilih salah satu font</br>
@@ -14,7 +15,7 @@
 
 * Jika ada error silahkan diulang
 
-5. Proses Berhasil disimpan di folder hasil/
+6. Proses Berhasil disimpan di folder hasil/
 
 Untuk kertas dan font lebih banyak
 bisa menggunakan BOT telegram saya
